@@ -1,0 +1,5 @@
+Plugind; https://victorenginescripts.wordpress.com/rpg-maker-vx-ace/
+
+windowskin
+
+Battle Animation: https://drive.google.com/file/d/0B0cSp2lASM9wQlFlWFZTSzg4Y1U/view
